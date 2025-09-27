@@ -2,6 +2,8 @@
 
 A secure React application for managing photos and files stored in AWS S3 buckets with user authentication through Amazon Cognito. This app provides a user-friendly interface for performing common file operations such as uploading, downloading, moving, renaming, and deleting files and folders.
 
+![alt text](/img/s3_files_app_small.png)
+
 ## Features
 
 - **Secure Authentication**: User registration, verification, and login via Amazon Cognito
